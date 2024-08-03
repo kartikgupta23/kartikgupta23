@@ -15,7 +15,7 @@ Innovative solutions in Data Science and Data Analysis
 
 📫 How to Reach Me
 Email: kartikeyagupta1435@gmail.com
-LinkedIn: nkedin.com/in/kartikeya-gupta-4244a6251/
+LinkedIn: linkedin.com/in/kartikeya-gupta-4244a6251/
 
 ⚡ Fun Fact
 I am a fast learner, always ready to adapt to various changes, and can quickly adapt myself in overwhelming situations.
