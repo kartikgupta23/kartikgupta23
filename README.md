@@ -30,7 +30,7 @@ I build data-driven products and visuals — from predictive HR models to intera
 - **Salifort Motors (HR Analytics)** — Predictive attrition model (95% accuracy). GitHub: https://github.com/kartikgupta23/Salifort-Motors-Project-Using-Multiple-Models  
 - **Zomato Insights Dashboard** — Power BI dashboard analyzing 50k+ orders, enabling targeted marketing (+15% engagement). Repo: https://github.com/kartikgupta23/Zomato-Insights  
 - **Kannada Handwritten Digits Calc** — CNN-powered GUI; 97% accuracy for Kannada digits & math symbols. Repo: https://github.com/kartikgupta23/Kannada-Handwritten-Digits-Classification-Calculator  
-- **Netflix Dashboard (Tableau)** — Interactive content analysis and geospatial insights. Repo: link in profile
+- **Netflix Dashboard (Tableau)** — Interactive content analysis and geospatial insights. Repo: https://github.com/kartikgupta23/Netflix-Analysis
 
 > 👉 See more on my GitHub (projects & demos) and the **Live Demos** section below.
 
