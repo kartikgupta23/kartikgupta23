@@ -14,7 +14,7 @@ I build data-driven products and visuals — from predictive HR models to intera
 
 - 🎓 B.Tech (Computer Science) — MPSTME, NMIMS (2022–2026)  
 - 🔭 Currently: Finalizing capstone on **Industrial Machine Defect Detection (sound-based)**  
-- 💬 Languages: English, Hindi
+- 💬 Languages: English, Hindi, Telugu, Kannada
 
 ---
 
